@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Longjie Chen"
 description              : &description "Longjie focus on studies of production of quarkonia in perturbative QCD."
 url                      : "https://Trivial137.github.io"
-# baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/Trivial137/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -45,7 +45,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/Trivial137"
+  github             : "https://github.com/Trivial137"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
